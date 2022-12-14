@@ -1,0 +1,17 @@
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\procesamiento de imagenes\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
